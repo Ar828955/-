@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<html>
 <html lang="th">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ดาวน์โหลดวิดีโอ Facebook</title>
+  <title>လူတ်ႇၶိပ်းဝီးတီဢူဝ် Facebook</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
